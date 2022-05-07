@@ -2,7 +2,8 @@ import tiktok as ttk
 
 ttk.functions.login(pass="", user="", email="")
 
-
+def x_gorg_gen():
+  
 
 
 
