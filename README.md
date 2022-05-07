@@ -15,7 +15,7 @@ The ins and outs of the iOS Jitterbit wind control encryption algorithm
 The ins and outs of the iOS Jitterbit encryption algorithm (a)
 The encryption algorithm of the Jitterbug communication protocol is the most perfect so far, some key functions have been confused by VM, such as device registration, video information, and other common interfaces, which can only be understood through dynamic debugging traces to understand the process.
 
-Let's first analyze how the common device registration is generated, which is the first step in requesting a Jitterbug interface, without it, any interface requesting Jitterbug will not return data.
+To analyze how the common device registration is generated, which is the first step in requesting a Jitterbug interface, without it, any interface requesting Jitterbug will not return data.
 
 1. Jitterbit's device registration interface
 https://log.snssdk.com/service/2/device_register/?
